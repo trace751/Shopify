@@ -1,0 +1,2 @@
+# Shopify
+testing shopify theme
